@@ -11,7 +11,7 @@
         "@pulumi/eks": "^0.18.18",
         "@pulumi/gcp": "^2.2.0",
         "@pulumi/kubernetes": "^1.4.5",
-        "@pulumi/pulumi": "^1.9.0",
+        "@pulumi/pulumi": "^1.14.1",
         "kubernetes-client": "^8.3.6"
     }
 }
